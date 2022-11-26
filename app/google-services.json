@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739899086404",
+    "firebase_url": "https://dropping-area-manager-default-rtdb.firebaseio.com",
+    "project_id": "dropping-area-manager",
+    "storage_bucket": "dropping-area-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739899086404:android:be500d6ee2b32408000e11",
+        "android_client_info": {
+          "package_name": "com.blessingdropshop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739899086404-ir17h2fejvb7m3b8evktsvp3d20g6699.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFcqsgqqMund1HvkZPkQnAfCMv9iYP-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739899086404-ir17h2fejvb7m3b8evktsvp3d20g6699.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

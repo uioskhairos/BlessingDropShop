@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/.gradle/caches/transforms-3/5063b0e1ac14381c2f2e5edbcfe814a8/transformed/core-1.8.0/res/layout/custom_dialog.xml" value="0.240625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/container.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/disabled.xml" value="0.229" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/gradient_spinner.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/ic_add.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/rounded.xml" value="0.1935" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/rounded2.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/rounded3.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/searchview_background.xml" value="0.1835" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/drawable/spinner_background.xml" value="0.229" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout-land/cashouts_list_admin.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout-land/fragment_update_items_dialog.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_addcashoutdialog_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_admin_cashout.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_approve_items_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_daily_sales.xml" value="0.240625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_dashboard.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_detail.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_droppers.xml" value="0.3076171875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_droppers_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_forgot_password.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_landing.xml" value="0.35144927536231885" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_logout.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_monthly_sales.xml" value="0.240625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_news_feed.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_register.xml" value="0.35144927536231885" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_sales.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_settings.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_settings_admin.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_update_cashout_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_update_item_admin_activity.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_update_item_admin_avtivity.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/activity_yearly_sales.xml" value="0.240625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/cashouts_list.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/cashouts_list_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/droppers_list.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/droppers_list_admin.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_add_items_dialog.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_admin_dashboard.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_approve_items.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_cashout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_cashout_req.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_dropped_items.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_dropped_items_dialog.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_droppers.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_items.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_loading_dialog.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_logout.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_notifications.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_referral.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_request_cashout.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_search_shop_name_dialog.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_subscription.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_success_cashout_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_success_dialog.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/fragment_update_items_dialog.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/items_list.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/items_list_admin.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/referrals_list.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/sales_list.xml" value="0.21" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/search_shop_name_dialog.xml" value="0.240625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/success_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/user_settings_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/layout/view_holder_news_feed_item.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/menu-v26/menu_toolbar.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/menu/menu_navigation.xml" value="0.3625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/menu/menu_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1355" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/BlessingDropShop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1355" />
+        <entry key="..\:/Users/User/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.1762917933130699" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
